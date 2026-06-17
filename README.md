@@ -1,23 +1,61 @@
 # Web Programming Projects
 
-Collection of web development projects completed during my IT studies.
+A collection of web development projects completed during my Information Technology studies.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- Responsive Web Design
-- UI/UX Principles
+- PHP
+- SQL
+- MySQL
+- Responsive Design
 - Git & GitHub
 
-## Projects
+## Project Progression
 
-### Assessment 1
-Static website demonstrating HTML, CSS, image assets and responsive design.
+### Assessment 1 - Static Website
 
-### Assessment 2
-Interactive web application using JavaScript and dynamic content.
+Built a responsive website using HTML, CSS and JavaScript.
 
-### Major Project
-Full web development project combining frontend technologies and user interaction features.
+Features:
+- Navigation system
+- Image gallery
+- Form page
+- Responsive layout
+
+### Assessment 2 - PHP & Database Integration
+
+Introduced backend development concepts.
+
+Features:
+- PHP pages
+- SQL database integration
+- Dynamic content
+- Database connectivity
+
+### Assessment 3 - Full CRUD Application
+
+Developed a complete database-driven web application.
+
+Features:
+- Create records
+- Read records
+- Update records
+- Delete records
+- Dynamic database interactions
+
+## Skills Demonstrated
+
+- Frontend Development
+- Backend Development
+- Database Design
+- SQL
+- PHP
+- Responsive Web Design
+- Full Stack Fundamentals
+
+## Author
+
+Paarth Jatwani
